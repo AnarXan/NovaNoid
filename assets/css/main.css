@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+.anardiv{
+    display: flex;
+    justify-content: center;
+}
+
 .anar{
     background-image: url(http://demo.rommar.in.ua/novanoid/novanoid-1/img/parallax.jpg);
     
